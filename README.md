@@ -26,3 +26,6 @@ Un exemple d'API est "RandomUser". Elle permet de générer des fausses données
 
 [Cliquer ici pour voir la documentation](https://randomuser.me/documentation)
 
+**Un commit**  
+Un "commit" est l'action de mettre son travail (un code) sur Git. Les différents "commit" forment comme un historique des versions du code qui a été modifié.  
+Un commit a un numéro qui lui est spécifique.
