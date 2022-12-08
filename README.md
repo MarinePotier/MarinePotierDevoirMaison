@@ -10,6 +10,7 @@ Un texte ou un mot entre "*" le mettra en italique :
 *Ceci est un texte en italique*  
 Le "-" devant une phrase mettra la phrase sous forme de liste :  
 - Exemple  
+
 Le chevron ">" permet de mettre en page une citation :  
 >Exemple de
 >bloc de citation
