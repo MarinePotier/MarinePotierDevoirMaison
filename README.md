@@ -1,8 +1,8 @@
 # Devoir maison
 ## Questions de cours
 
-**Qu'est-ce qu'un terminal ?**
-Un terminal (ou l'invite de commande) permet à un utilisateur de communiquer avec un ordinateur, un serveur, ou un réseau d'ordinateur. Même si en général un utilisateur lambda utilise sa machine via le GUI, certaines tâches nécessitent l'utilisation du terminal.
+**Qu'est-ce qu'un terminal ?**  
+Un terminal (ou l'invite de commande) permet à un utilisateur de communiquer avec un ordinateur, un serveur, ou un réseau d'ordinateur. Même si en général un utilisateur lambda utilise sa machine via le GUI, certaines tâches nécessitent l'utilisation du terminal.  
 Grâce au terminal, on peut par exemple créer des dossiers, les modifier, les supprimer, y ajouter des fichiers, les renommer...
 
 **Éléments de mise en page de fichier README.md**  
