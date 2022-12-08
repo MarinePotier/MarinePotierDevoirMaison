@@ -9,7 +9,7 @@ Grâce au terminal, on peut par exemple créer des dossiers, les modifier, les s
 Un texte ou un mot entre "*" le mettra en italique :  
 *Ceci est un texte en italique*  
 Le "-" devant une phrase mettra la phrase sous forme de liste :  
-- Exemple
+- Exemple  
 Le chevron ">" permet de mettre en page une citation :  
 >Exemple de
 >bloc de citation
