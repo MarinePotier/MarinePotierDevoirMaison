@@ -6,8 +6,8 @@ Un terminal (ou l'invite de commande) permet à un utilisateur de communiquer av
 Grâce au terminal, on peut par exemple créer des dossiers, les modifier, les supprimer, y ajouter des fichiers, les renommer...
 
 **Éléments de mise en page de fichier README.md**
-Un texte ou un mot entre "*" le mettra en italique :
-*Ceci est un texte en italique*
+Un texte ou un mot entre "*" le mettra en italique :  
+*Ceci est un texte en italique*  
 Le "-" devant une phrase mettra la phrase sous forme de liste :
 - Exemple
 Le chevron ">" permet de mettre en page une citation :
