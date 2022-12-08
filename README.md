@@ -22,6 +22,7 @@ En CSS :
 - L'unité em est une unité relative à l'élément parent. On peut convertir des em en px : 1em est égal à 16px.
 
 **Exemple d'une API**  
-Un exemple d'API est "RandomUser". Elle permet de générer des fausses données utilisateurs de façon aléatoire. Elle est destinée aux tests de sites/plateformes par exemple, car elle permet de remplir une base de données de "faux utilisateurs". Elle génère notamment des noms, des genres, des adresses, des coordonnées de connexion... 
+Un exemple d'API est "RandomUser". Elle permet de générer des fausses données utilisateurs de façon aléatoire. Elle est destinée aux tests de sites/plateformes par exemple, car elle permet de remplir une base de données de "faux utilisateurs". Elle génère notamment des noms, des genres, des adresses, des coordonnées de connexion...  
+
 [Cliquer ici pour voir la documentation](https://randomuser.me/documentation)
 
